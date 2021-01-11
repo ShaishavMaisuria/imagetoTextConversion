@@ -11,6 +11,8 @@ https://github.com/UB-Mannheim/tesseract/wiki
 Navigate to the last link noted all other links are for reference to reach the last link
 in very last link mentioned above install the following .exe file based on your Operating system
 
-tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe (32 bit) 
+Tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe (32 bit) 
+
 or
-tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe (64 bit) resp.
+
+Tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe (64 bit) resp.
